@@ -1,5 +1,5 @@
 # Applied-Bioinformatics
-Student course material for the Applied Bioinformatics course at Scripps Research
+Student course material for the Applied Bioinformatics course at Scripps Research for fall 2018.
 
 ## Prerequisites
 
@@ -27,8 +27,33 @@ The only requirement is that you have access to a latop running Windows 10 or ma
 * [slides](https://docs.google.com/presentation/d/1X88Zjiyo7LfJVVAKhvJKNKEsJMLgkPYQtCXHzkWg3uE)
 * [notebook](Module-1_bash-jupyter-git/1.5_redirection-and-pipes.ipynb)
 
-### Module 2: R
+#### 1.6 awk
+* [slides](https://docs.google.com/presentation/d/1ejePOkEU7FVSqXUPtpM89neLXP7nR24R9Cb24QSyeqw)
+* [notebook](Module-1_bash-jupyter-git/1.6_awk.ipynb)
 
+#### 1.7 git
+* [how to find your homeworks again...](Module-1_bash-jupyter-git/git_reset_local_repo.ipynb)
+* [slides](https://drive.google.com/open?id=11QUQRnKRmCQukB0pL82x9Kf7x5zyjEHe)
+* [notebook](Module-1_bash-jupyter-git/1.7_for_loop_and_string_replacement.ipynb)
+
+#### 1.8 looping
+* [notebook](Module-1_bash-jupyter-git/1.8_find_git_stringreplacement_questions.ipynb)
+
+
+#### Yolanda's handouts
+* Bash handout 1 [notebook](Module-1_bash-jupyter-git/week1-1_bash.md)
+* Bash handout 2 [notebook](Module-1_bash-jupyter-git/week1-2_bash.md)
+* Bash handout 3 [notebook](Module-1_bash-jupyter-git/week2-1_bash.md)
+
+### Module 2: R
+#### 2.1 R objects
+* [slides](https://github.com/SuLab/Applied-Bioinformatics/raw/master/Unit1-module2-R/R-1.pptx)
+* [notebook](Unit1-module2-R/R.intro.1.ipynb)
+* [Practice 2.1 sample answer](R.intro.1.practice2.1.ipynb)
+
+#### 2.1 R data operations
+* [slides](https://github.com/SuLab/Applied-Bioinformatics/raw/master/Unit1-module2-R/R-2.pptx)
+* [notebook](Unit1-module2-R/R.intro.2.ipynb)
 
 ### Module 3: RNA-seq
 
